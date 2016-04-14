@@ -1,0 +1,33 @@
+Exploding C:\Users\BluemericAcc\.m2\repository\org\jenkins-ci\main\jenkins-war\1.625.3\jenkins-war-1.625.3-war-for-test.jar into D:\com\target\jenkins-for-test
+Mar 28, 2016 7:11:40 PM org.mortbay.log.Slf4jLog info
+INFO: Logging to org.slf4j.impl.JDK14LoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+Mar 28, 2016 7:11:40 PM org.mortbay.log.Slf4jLog info
+INFO: jetty-6.1.26
+Mar 28, 2016 7:11:40 PM org.mortbay.log.Slf4jLog info
+INFO: NO JSP Support for , did not find org.apache.jasper.servlet.JspServlet
+Mar 28, 2016 7:11:40 PM org.mortbay.log.Slf4jLog info
+INFO: Started SocketConnector@0.0.0.0:51128
+Mar 28, 2016 7:11:41 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Mar 28, 2016 7:12:27 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Mar 28, 2016 7:12:28 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Mar 28, 2016 7:12:28 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Mar 28, 2016 7:12:28 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Mar 28, 2016 7:12:33 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Mar 28, 2016 7:12:39 PM org.jenkinsci.main.modules.sshd.SSHD start
+INFO: Started SSHD at port 51157
+Mar 28, 2016 7:12:39 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+Mar 28, 2016 7:12:39 PM org.mortbay.log.Slf4jLog info
+INFO: jetty-6.1.26
+Mar 28, 2016 7:12:39 PM org.mortbay.log.Slf4jLog info
+INFO: Started SocketConnector@0.0.0.0:51159
+Mar 28, 2016 7:12:44 PM org.mortbay.log.Slf4jLog info
+INFO: Stopped SocketConnector@0.0.0.0:51128
+WARN: The method class org.apache.commons.logging.impl.SLF4JLogFactory#release() was invoked.
+WARN: Please see http://www.slf4j.org/codes.html#release for an explanation.
